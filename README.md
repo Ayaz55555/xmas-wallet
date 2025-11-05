@@ -42,7 +42,7 @@ Verified open-source code with documentation
 
 🎁 Vision & Future Roadmap
 
-Add Base holiday airdrop or NFT reward system
+Add Base holiday airdrop or NFT reward sys
 
 Integrate user rank tracking via on-chain data
 
